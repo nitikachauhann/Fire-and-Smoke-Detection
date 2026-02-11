@@ -154,10 +154,6 @@ Each new prediction run creates a new folder:
 runs/detect/predictX/
 ```
 
-You can upload sample images from the `predict3` folder into the repository for visualization in this README.
-
----
-
 ## 📈 Performance Summary
 
 * High overall precision (94.1%)
