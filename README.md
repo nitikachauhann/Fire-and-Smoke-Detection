@@ -1,5 +1,5 @@
 
-# 🔥 Fire & Smoke Detection using YOLOv8
+# Fire & Smoke Detection using YOLOv8
 
 Real-time Fire and Smoke Detection using YOLOv8 trained on a custom dataset and exported for deployment using ONNX.
 
