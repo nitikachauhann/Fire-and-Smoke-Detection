@@ -175,8 +175,5 @@ You can upload sample images from the `predict3` folder into the repository for 
 * Cloud-based monitoring dashboard
 * Model optimization using TensorRT or OpenVINO
 
----
-
-# ⭐ If you found this project useful, consider starring the repository!
 
 
